@@ -12,7 +12,7 @@
 - 🔭 Actualmente aprendiendo: Git, GitHub y desarrollo web
 - 🌱 Interesado en: Backend, Bases de Datos y Automatización
 - 💬 Pregúntame sobre: Git, HTML, lógica de programación
-- 📫 Contacto: tuemail@email.com
+- 📫 Contacto: pachon02.05@gmail.com
 
 ---
 
