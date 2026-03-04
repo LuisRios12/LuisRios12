@@ -1,16 +1,41 @@
 ## Hi there 👋
+# 👋 Hola, soy Luis Rios
 
-<!--
-**LuisRios12/LuisRios12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Apasionado por el desarrollo de software y la tecnología  
+🚀 En constante aprendizaje  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🔭 Actualmente aprendiendo: Git, GitHub y desarrollo web
+- 🌱 Interesado en: Backend, Bases de Datos y Automatización
+- 💬 Pregúntame sobre: Git, HTML, lógica de programación
+- 📫 Contacto: tuemail@email.com
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)
+
+---
+## 📌 Proyectos Destacados
+
+- 📁 Proyecto Git colaborativo
+- 🌐 Página web personal
+- 🛠️ Sistema en desarrollo
+
+---
+
+⭐ Siempre buscando mejorar y aprender algo nuevo.
