@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hola, soy Luis Rios
 
 🎓 Estudiante de Ingeniería en Sistemas  
